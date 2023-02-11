@@ -1,0 +1,64 @@
+.home-con1{
+    background-color:#d3e6e3;
+}
+.con1-pic{
+ width:100%;
+}
+.des-div{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.icon-div{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.con-3{
+    background-color:#bfcde3;
+}
+.card-con{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color:whitesmoke;
+    
+}
+.features{
+    color:chocolate;
+    font-size:25px;
+}
+.footer-con{
+    background-image:url("https://img.freepik.com/premium-photo/cyber-security-network-padlock-icon-internet-technology-networking-businessman-protecting-data-personal-informationvirtual-interface-data-protection-privacy-concept-gdpr-eudigital-crime_150455-19212.jpg?w=740");
+    background-size:cover;
+}
+.inp-ele{
+    background:transparent;
+    border:2px solid white;
+    outline:none;
+    color:white;
+    padding:10px;
+    font-size:15px;
+}
+.sub-btn{
+    width:auto;
+}
+.head-con1{
+    color:#2d3030;
+    font-size:32px;
+    font-weight:700;
+}
+.head-con2{
+    color:#2d3030;
+    font-size:32px;
+    font-weight:700;
+}
+.icons-sec{
+    font-size:30px;
+}
+.icon-des{
+    font-size:28px;
+}
+.span-ele{
+    font-weight:700;
+}
